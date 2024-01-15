@@ -1,0 +1,3 @@
+[submodule "subprojects/nats.c"]
+	path = subprojects/nats.c
+	url = git@github.com:nats-io/nats.c.git
